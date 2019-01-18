@@ -1,0 +1,9 @@
+
+Redirect 301 / http://bosna-travel.ba
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+Options All -Indexes
